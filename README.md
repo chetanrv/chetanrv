@@ -12,27 +12,53 @@ Skilled in building **large-scale ETL pipelines (100M+ records/day)**, reducing 
 
 ## 💼 Experience  
 
-**Travelers Insurance (via LTIMindtree) – Senior Data Engineer**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Travelers_Insurance_logo.svg" alt="Travelers Insurance" height="40"/>  
-- Designed and optimized 100+ ETL workflows, reducing runtimes by 82% and boosting SLA compliance.  
-- Automated financial & regulatory reporting pipelines, improving accuracy by 92%.  
-- Partnered with finance/claims teams to streamline pipelines, cutting reporting refresh times by 50%.  
+**Data Engineering Consultant – Delaware North (UB Project Clinic)**  
+📅 *Jan 2025 – Jul 2025*  
+![Delaware North](https://img.shields.io/badge/Delaware_North-black?style=flat)  
 
----
-
-**Delaware North – Data Engineering Consultant (UB Project Clinic)**  
-<img src="https://upload.wikimedia.org/wikipedia/en/5/59/Delaware_North_logo.svg" alt="Delaware North" height="40"/>  
 - Built ETL workflows for month-end financial close integrating QuickBooks & Excel.  
-- Automated reconciliations, reducing reporting cycle time by 40%.  
-- Delivered Power BI dashboards for revenue & variance analysis.  
+- Automated reconciliations using SQL and Excel, reducing reporting cycle time by **40%**.  
+- Delivered Power BI dashboards for revenue, expense, and variance analysis.  
 
 ---
 
-**CoverRight (InsurTech) – Graduate Data Analyst (UB Project Clinic)**  
-<img src="https://media.licdn.com/dms/image/C560BAQHFrZK1cGxR4A/company-logo_200_200/0/1650466304967/coverright_logo?e=2147483647&v=beta&t=lznEgaQw4m7MhtM2JblsSe5bpJZ2Ybrstg4wQ2kWZUc" alt="CoverRight" height="40"/>  
+**Graduate Data Analyst – CoverRight (InsurTech, UB Project Clinic)**  
+📅 *Jan 2025 – May 2025*  
+![CoverRight](https://img.shields.io/badge/CoverRight-green?style=flat)  
+
 - Designed ingestion pipelines for healthcare/insurance data.  
 - Built Power BI/Tableau dashboards tracking enrollment & financial KPIs.  
-- Improved reporting workflows by 25% via SQL automation & reusable queries.  
+- Improved reporting workflows by **25%** via SQL automation & reusable queries.  
+
+---
+
+**Senior Data Engineer – LTIMindtree | Travelers Insurance**  
+📅 *Jul 2023 – Jun 2024*  
+![LTIMindtree](https://img.shields.io/badge/LTIMindtree-blue?style=flat)  
+![Travelers Insurance](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
+
+- Designed and optimized 100+ ETL workflows, reducing runtimes by **82%** and improving SLA compliance.  
+- Automated 20+ workflows with Autosys, improving job reliability and cutting manual intervention by **40%**.  
+- Built predictive ETL workflows for Quantum Subro, refactoring non-strategic sources into strategic data marts.  
+- Developed error-handling subflows with conditional logic and checkpoints, reducing production recovery time by **30%**.  
+- Partnered with business teams to deliver **regulatory and financial reporting pipelines**, improving reporting accuracy by **92%**.  
+- Streamlined cross-system pipelines, cutting reporting refresh time by **50%**.  
+- Built automated Excel-based cost savings trackers with VBA Macros, ensuring audit-ready data and reducing manual errors.  
+
+---
+
+**Data Engineer – LTIMindtree | Travelers Insurance**  
+📅 *May 2019 – Jul 2023*  
+![LTIMindtree](https://img.shields.io/badge/LTIMindtree-blue?style=flat)  
+![Travelers Insurance](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
+
+- Designed and maintained ETL workflows (SQL + Excel automation) to integrate supplier, finance, and cost data into unified reporting structures.  
+- Automated financial scorecards and **variance dashboards** in Power BI and Excel, improving KPI visibility for finance teams.  
+- Conducted data cleaning and validation checks on **high-volume datasets**, reducing manual reconciliation by **40%**.  
+- Developed **what-if financial models** in SQL/Excel to support forecasting, contract negotiations, and variance analysis.  
+- Built standardized reporting templates and dashboards, improving billing and compliance visibility for global teams.  
+- Partnered with finance & compliance teams to automate **audit reporting pipelines**, cutting audit prep time by **40%**.  
+- Collaborated cross-functionally to reduce reporting turnaround from **3 days to 4 hours**, enabling faster executive decisions.  
 
 ---
 
@@ -83,15 +109,15 @@ Serverless ETL pipeline landing raw data in S3, transforming via AWS Glue, and q
 
 ---
 
-**The Guac Shop**  
-End-to-end BI warehouse on Google BigQuery with Looker Studio dashboards for insights.  
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey?style=flat)  
-
----
-
 **Qu-Pulse**  
 Social trend analytics project using Python for sentiment analysis on unstructured text data.  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-TextMining-yellow?style=flat)  
+
+---
+
+**The Guac Shop**  
+End-to-end BI warehouse on Google BigQuery with Looker Studio dashboards for insights.  
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-Pipelines-lightgrey?style=flat)  
 
 ---
 
