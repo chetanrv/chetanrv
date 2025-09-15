@@ -32,7 +32,7 @@ Skilled in building **large-scale ETL pipelines (100M+ records/day)**, reducing 
 
 ---
 
-**Senior Data Engineer – LTIMindtree | Travelers Insurance**  
+**Senior Data Engineer – LTIMindtree | Travelers Insurance Companies Hartford USA**  
 📅 *Jul 2023 – Jun 2024*  
 ![LTIMindtree](https://img.shields.io/badge/LTIMindtree-blue?style=flat)  
 ![Travelers Insurance Companies Hartford USA](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
@@ -47,7 +47,7 @@ Skilled in building **large-scale ETL pipelines (100M+ records/day)**, reducing 
 
 ---
 
-**Data Engineer – LTIMindtree | Travelers Insurance**  
+**Data Engineer – LTIMindtree | Travelers Insurance Companies Hartford USA**  
 📅 *May 2019 – Jul 2023*  
 ![LTIMindtree](https://img.shields.io/badge/LTIMindtree-blue?style=flat)  
 ![Travelers Insurance Companies Hartford USA](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
