@@ -35,7 +35,7 @@ Skilled in building **large-scale ETL pipelines (100M+ records/day)**, reducing 
 **Senior Data Engineer – LTIMindtree | Travelers Insurance**  
 📅 *Jul 2023 – Jun 2024*  
 ![LTIMindtree](https://img.shields.io/badge/LTIMindtree-blue?style=flat)  
-![Travelers Insurance](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
+![Travelers Insurance Companies Hartford USA](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
 
 - Designed and optimized 100+ ETL workflows, reducing runtimes by **82%** and improving SLA compliance.  
 - Automated 20+ workflows with Autosys, improving job reliability and cutting manual intervention by **40%**.  
@@ -50,7 +50,7 @@ Skilled in building **large-scale ETL pipelines (100M+ records/day)**, reducing 
 **Data Engineer – LTIMindtree | Travelers Insurance**  
 📅 *May 2019 – Jul 2023*  
 ![LTIMindtree](https://img.shields.io/badge/LTIMindtree-blue?style=flat)  
-![Travelers Insurance](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
+![Travelers Insurance Companies Hartford USA](https://img.shields.io/badge/Travelers_Insurance-red?style=flat)  
 
 - Designed and maintained ETL workflows (SQL + Excel automation) to integrate supplier, finance, and cost data into unified reporting structures.  
 - Automated financial scorecards and **variance dashboards** in Power BI and Excel, improving KPI visibility for finance teams.  
