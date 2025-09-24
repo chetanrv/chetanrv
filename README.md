@@ -6,14 +6,14 @@ Skilled in automating reporting workflows, building interactive dashboards, and 
 ---
 
 ### 🎓 Education  
-- **MS in Management Information Systems (STEM)** @ University at Buffalo (2023 – 2025) | GPA: 4.0/4.0  
-- **BE in Computer Science Engineering** @ NMIT, Bengaluru (2015 – 2019)  
+- **MS in Management Information Systems (STEM)** @ University at Buffalo (2025) | GPA: 4.0/4.0  
+- **BE in Computer Science Engineering** @ NMIT, Bengaluru (2015 – 2019) | GPA: 3.6/4.0
 
 ---
 
 ### 💼 Experience  
 
-**BI Consultant – Delaware North (UB Project Clinic Intern)**  
+**BI Consultant – Delaware North (UB Intern)**  
 📅 Jan 2025 – Jul 2025 | Buffalo, NY, USA  
 - Automated complex financial reconciliation using SQL & Excel, reducing month-end close cycle by 40%.  
 - Delivered interactive variance dashboards in Power BI, improving revenue & expense visibility by 30%.  
@@ -42,11 +42,12 @@ Skilled in automating reporting workflows, building interactive dashboards, and 
 
 ### 🛠️ Skills & Tools  
 
-**Languages & Programming**: Python | SQL | Excel (VBA, Macros)  
-**Visualization & BI**: Power BI | Tableau | Qlik  
-**Databases & Cloud**: Snowflake | Oracle | Teradata | AWS | PostgreSQL  
-**ETL & Data Management**: ETL Pipelines | Data Validation | Audit & Compliance Reporting  
-**Other Tools**: Git | Jenkins | Jira | Agile  
+##Languages & Programming: Python (Pandas, NumPy) | SQL (Advanced Optimization) | R (basic) | Excel (VBA, Macros) | Bash
+##Visualization & BI: Power BI | Tableau | Qlik | Looker | Google Data Studio (Looker Studio) | Advanced Excel (Pivot, DAX, Power Query)
+##Databases & Cloud: Snowflake | Oracle | Teradata | AWS (S3, Redshift, EC2, Glue, Athena) | Google BigQuery | PostgreSQL | SQL Server | Hive
+##ETL & Data Engineering: Ab Initio | Autosys | Control-M | Airflow | Talend (basic) | ETL/ELT Pipelines | Data Modeling | Data Warehousing | Workflow Orchestration | Data Quality & Governance
+##Big Data & Analytics: Hadoop | Hive | Spark (PySpark) | NLP (NLTK, spaCy basics) | Predictive Analytics (SQL + Python)
+##Other Tools: Git | Jenkins | Jira | ServiceNow | Confluence | Agile/Scrum | CI/CD Pipelines  
 
 ---
 
