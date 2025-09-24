@@ -1,6 +1,6 @@
 Hi there, I'm Chetan RV 👋  
 
-🚀 **BI Consultant | Data Analyst | Reporting Specialist** with 6+ years of experience turning complex data into actionable insights.  
+**BI Consultant | Data Analyst | Reporting Specialist** with 6+ years of experience turning complex data into actionable insights.  
 Skilled in automating reporting workflows, building interactive dashboards, and delivering audit-ready financial and healthcare analytics that empower leadership decisions.  
 
 ---
