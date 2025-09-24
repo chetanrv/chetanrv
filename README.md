@@ -39,15 +39,25 @@ Skilled in automating reporting workflows, building interactive dashboards, and 
 - Retired 20+ redundant reports, consolidating metrics into centralized dashboards.  
 
 ---
+## 🛠️ Skills & Tools  
 
-### 🛠️ Skills & Tools  
+**Languages & Programming**  
+🐍 Python (Pandas, NumPy) | 🗄️ SQL (Advanced Optimization) | 📊 R (basic) | 📑 Excel (VBA, Macros) | 💻 Bash  
 
-**Languages & Programming:** Python (Pandas, NumPy) | SQL (Advanced Optimization) | R (basic) | Excel (VBA, Macros) | Bash
-**#Visualization & BI:** Power BI | Tableau | Qlik | Looker | Google Data Studio (Looker Studio) | Advanced Excel (Pivot, DAX, Power Query)
-**Databases & Cloud:** Snowflake | Oracle | Teradata | AWS (S3, Redshift, EC2, Glue, Athena) | Google BigQuery | PostgreSQL | SQL Server | Hive
-**ETL & Data Engineering:** Ab Initio | Autosys | Control-M | Airflow | Talend (basic) | ETL/ELT Pipelines | Data Modeling | Data Warehousing | Workflow Orchestration | Data Quality & Governance
-**Big Data & Analytics:** Hadoop | Hive | Spark (PySpark) | NLP (NLTK, spaCy basics) | Predictive Analytics (SQL + Python)
-**Other Tools:** Git | Jenkins | Jira | ServiceNow | Confluence | Agile/Scrum | CI/CD Pipelines  
+**Visualization & BI**  
+📈 Power BI | 📊 Tableau | 📊 Qlik | 👀 Looker | 🌐 Google Data Studio (Looker Studio) | 📑 Advanced Excel (Pivot, DAX, Power Query)  
+
+**Databases & Cloud**  
+❄️ Snowflake | 🏛️ Oracle | 📦 Teradata | ☁️ AWS (S3, Redshift, EC2, Glue, Athena) | 🔍 Google BigQuery | 🐘 PostgreSQL | 🗄️ SQL Server | 🐝 Hive  
+
+**ETL & Data Engineering**  
+⚙️ Ab Initio | ⏱️ Autosys | 📋 Control-M | 🌬️ Airflow | 🔄 Talend (basic) | 🔌 ETL/ELT Pipelines | 🗂️ Data Modeling | 🏗️ Data Warehousing | 🔄 Workflow Orchestration | ✅ Data Quality & Governance  
+
+**Big Data & Analytics**  
+🛠️ Hadoop | 🐝 Hive | ⚡ Spark (PySpark) | 🤖 NLP (NLTK, spaCy basics) | 📈 Predictive Analytics (SQL + Python)  
+
+**Other Tools**  
+🌿 Git | 🔧 Jenkins | 📋 Jira | 🛎️ ServiceNow | 📘 Confluence | 🔄 Agile/Scrum | 🚀 CI/CD Pipelines 
 
 ---
 
