@@ -78,15 +78,8 @@ I bridge **Business Operations ↔ Data Engineering**, delivering insights that 
 
 ---
 
-## 📊 GitHub Stats  
-
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanrv&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanrv&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌐 Let’s Connect  
 - [💼 LinkedIn](https://www.linkedin.com/in/chetanrv)  
 - 📧 **cravichandravani@gmail.com**  
 
-> 💡 *“Revenue operations isn’t just about reporting — it’s about building trust in the numbers that drive decisions.”*
+*“Revenue operations isn’t just about reporting — it’s about building trust in the numbers that drive decisions.”*
