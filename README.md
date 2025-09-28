@@ -1,76 +1,88 @@
-Hi there, I'm Chetan RV 👋  
+Hi there, I'm Chetan RV 👋
 
-**BI Consultant | Data Analyst | Reporting Specialist** with 6+ years of experience turning complex data into actionable insights.  
-Skilled in automating reporting workflows, building interactive dashboards, and delivering audit-ready financial and healthcare analytics that empower leadership decisions.  
+Revenue & Sales Operations Consultant | BI & Analytics Specialist with 6+ years of experience driving forecast accuracy, pipeline visibility, and executive reporting.
+I specialize in automating GTM workflows, building QBR-ready dashboards, and delivering audit-ready insights that improve revenue outcomes across insurance, fintech, and healthcare.
 
----
+🎓 Education
 
-### 🎓 Education  
-- **MS in Management Information Systems (STEM)** @ University at Buffalo (2025) | GPA: 4.0/4.0  
-- **BE in Computer Science Engineering** @ NMIT, Bengaluru (2015 – 2019) | GPA: 3.6/4.0
+MS in Management Information Systems (STEM) – University at Buffalo (2025) | GPA: 4.0/4.0
 
----
+BE in Computer Science Engineering – NMIT, Bengaluru (2015–2019) | GPA: 3.6/4.0
 
-### 💼 Experience  
+💼 Experience
 
-**BI Consultant – Delaware North (UB Intern)**  
-📅 Jan 2025 – Jul 2025 | Buffalo, NY, USA  
-- Automated complex financial reconciliation using SQL & Excel, reducing month-end close cycle by 40%.  
-- Delivered interactive variance dashboards in Power BI, improving revenue & expense visibility by 30%.  
-- Integrated QuickBooks + Excel data into reporting frameworks, establishing a single source of truth.  
-- Defined data quality standards for compliance on $50M+ monthly transactions, strengthening audit readiness.  
+Revenue & Sales Operations Consultant – Delaware North (UB Intern)
+📅 Jan 2025 – Jul 2025 | Buffalo, NY, USA
 
-**BI Data Analyst – CoverRight (UB Intern)**  
-📅 Jan 2025 – May 2025 | Buffalo, NY, USA  
-- Designed automated ingestion pipelines for healthcare enrollment & claims data, improving reporting reliability by 25%.  
-- Built Power BI & Tableau dashboards, saving 30+ reporting hours/month and improving KPI transparency.  
-- Cleaned & validated 100K+ member records to ensure compliance and deliver audit-ready datasets.  
-- Consolidated 15+ client reports into a unified catalog, increasing adoption by 35%.  
+Built Power BI dashboards integrated with QuickBooks, cutting reporting turnaround by 70% and accelerating QBR decision-making.
 
-**BI Data Analyst – LTIMindtree | Travelers Insurance Companies**  
-📅 May 2019 – Jun 2024 | Bengaluru, India & Hartford, USA  
-- Performed validation checks on 100M+ financial & claims records, reducing reconciliation by 40%.  
-- Automated financial scorecards & dashboards, cutting prep time by 35% and improving decision speed.  
-- Partnered with compliance teams to deliver SOX-compliant regulatory reports with zero exceptions.  
-- Re-engineered ETL workflows, reducing reporting turnaround from 3 days to 4 hours.  
-- Introduced error-handling frameworks, reducing recovery time by 30% and improving reliability.  
-- Conducted source-to-target data mapping, improving transparency & reusability of BI reports.  
-- Led UAT for BI dashboards, increasing adoption and alignment with business needs.  
-- Retired 20+ redundant reports, consolidating metrics into centralized dashboards.  
+Designed bookings→revenue forecasting models, improving accuracy by 20% and uncovering $500K in missed revenue.
 
----
-## 🛠️ Skills & Tools  
+Partnered with Finance & Sales Ops to align budgets and incentives, improving budget adherence by 25%.
 
-**Languages & Programming**  
-🐍 Python (Pandas, NumPy) | 🗄️ SQL (Advanced Optimization) | 📊 R (basic) | 📑 Excel (VBA, Macros) | 💻 Bash  
+Implemented CRM hygiene and data governance, improving Salesforce accuracy by 35% and reducing duplicates by 40%.
 
-**Visualization & BI**  
-📈 Power BI | 📊 Tableau | 📊 Qlik | 👀 Looker | 🌐 Google Data Studio (Looker Studio) | 📑 Advanced Excel (Pivot, DAX, Power Query)  
+Sales Operations Analyst – CoverRight (UB Intern)
+📅 Jan 2025 – May 2025 | Buffalo, NY, USA
 
-**Databases & Cloud**  
-❄️ Snowflake | 🏛️ Oracle | 📦 Teradata | ☁️ AWS (S3, Redshift, EC2, Glue, Athena) | 🔍 Google BigQuery | 🐘 PostgreSQL | 🗄️ SQL Server | 🐝 Hive  
+Customized Salesforce dashboards to track CAC, churn, and pipeline coverage, boosting GTM metric adoption by 30%.
 
-**ETL & Data Engineering**  
-⚙️ Ab Initio | ⏱️ Autosys | 📋 Control-M | 🌬️ Airflow | 🔄 Talend (basic) | 🔌 ETL/ELT Pipelines | 🗂️ Data Modeling | 🏗️ Data Warehousing | 🔄 Workflow Orchestration | ✅ Data Quality & Governance  
+Built Tableau dashboards linking marketing funnel and revenue KPIs, improving ROI measurement accuracy by 25%.
 
-**Big Data & Analytics**  
-🛠️ Hadoop | 🐝 Hive | ⚡ Spark (PySpark) | 🤖 NLP (NLTK, spaCy basics) | 📈 Predictive Analytics (SQL + Python)  
+Automated reconciliations between Salesforce and claims data, raising data accuracy by 30%.
 
-**Other Tools**  
-🌿 Git | 🔧 Jenkins | 📋 Jira | 🛎️ ServiceNow | 📘 Confluence | 🔄 Agile/Scrum | 🚀 CI/CD Pipelines 
+Developed pipeline risk reports and recovery playbooks that saved $200K in at-risk revenue.
 
----
+Conducted churn & segmentation analysis, improving renewals by 12%.
 
-### 💡 Projects  
+Senior Sales Operations & GTM Enablement Specialist – LTIMindtree | Travelers Insurance
+📅 May 2019 – Jun 2024 | Bengaluru, India & Hartford, USA
 
-- **Financial Close Automation – Delaware North** – Automated reconciliations & variance analysis in SQL/Power BI, improving month-end close efficiency by 40%.  
-- **Healthcare BI – CoverRight** – Built dashboards tracking enrollment & claims KPIs, improving reporting reliability by 25%.  
-- **Enterprise BI Transformation – Travelers Insurance** – Automated audit-ready financial reporting pipelines, reduced turnaround time by 85%, and delivered centralized BI dashboards for senior management.  
+Owned Salesforce dashboards, attribution models, and outbound workflows, reducing forecast variance by 15%.
 
----
+Automated 40+ GTM workflows (SQL + Autosys + Salesforce), cutting manual effort by 40% and boosting rep productivity by 25%.
 
-### 🌐 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/chetanrv/)  
-- 📧 Email: **cravichandravani@gmail.com**  
+Designed outbound KPI dashboards (Power BI, Tableau, Excel), improving pipeline visibility for 200+ sales reps.
 
-💡 *“Data should move at the speed of decisions — my goal is to make that possible.”*  
+Built deal desk scorecards & pricing variance reports, improving margins by 12% and win rates.
+
+Developed commission payout models for 500+ reps, ensuring 100% accuracy in quarterly compensation.
+
+Delivered board-ready QBR packs, reducing exec prep time by 50% and scaling RevOps compliance reporting.
+
+🛠️ Skills & Tools
+
+Functional Competencies
+
+Revenue Operations | Sales Operations | GTM Strategy & Enablement | Forecasting & Pipeline Risk | Quota & Territory Planning | Compensation & Incentives | Deal Desk Analytics | ROI & CAC/LTV | Churn & Retention | QBR / Board Reporting
+
+CRM & Platforms
+
+Salesforce | HubSpot (familiar) | Highspot | Salesloft | QuickBooks | Confluence | Jira | ServiceNow
+
+Analytics & BI
+
+Power BI | Tableau | Qlik | Advanced Excel (VBA, Macros, DAX) | Forecast & Variance Dashboards
+
+Data Engineering & ETL
+
+SQL (Advanced Optimization) | Python (Pandas, NumPy) | Ab Initio | Dagster | Autosys | Control-M | Workflow Orchestration | Data Quality
+
+Cloud & Databases
+
+AWS (S3, Redshift, Glue, EC2) | Snowflake | BigQuery | Oracle | Teradata | PostgreSQL | SQL Server
+
+💡 Projects
+
+Revenue Variance & Forecasting – Delaware North: Built Power BI + QuickBooks dashboards, boosting forecast accuracy by 20% and surfacing $500K in missed revenue.
+
+Salesforce GTM Analytics – CoverRight: Customized CAC/churn dashboards, improving adoption by 30% and saving $200K in pipeline recovery.
+
+Enterprise RevOps Transformation – Travelers Insurance: Automated 40+ workflows, cut prep cycles by 85%, and scaled compensation & QBR reporting for 500+ reps.
+
+🌐 Let’s Connect
+🔗 LinkedIn
+
+📧 Email: cravichandravani@gmail.com
+
+“Revenue operations isn’t just about reporting—it’s about building trust in the numbers that drive decisions”
