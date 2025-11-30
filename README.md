@@ -1,85 +1,108 @@
-# Hi there, I'm Chetan RV 👋  
+🌟 Hi, I’m Chetan RV
+Data Analyst | Marketing Analytics | Data Engineering | SQL • Power BI • Databricks
 
-**Revenue & Sales Operations Consultant | BI & Data Analytics Specialist | Data Engineering Hybrid**  
-6+ years of experience helping organizations make **faster, data-driven decisions** by optimizing GTM workflows, automating reporting, and building QBR-ready dashboards.  
+I turn messy, multi-source marketing and business data into clean, reliable insights & automation — helping teams make faster, smarter, and more customer-obsessed decisions.
 
-I bridge **Business Operations ↔ Data Engineering**, delivering insights that improve forecast accuracy, strengthen compliance, and unlock revenue growth.  
+I work at the intersection of data engineering + analytics, building the pipelines, datasets, and dashboards that power campaign optimization, GTM strategy, and executive reporting.
 
----
+⚡ Quick Snapshot
+<div align="center">
+🔧 Expertise	📊 Analytics	💡 Domain
+SQL, Python, Databricks, dbt	Power BI, Tableau, Excel	Growth Marketing, CRM, GTM & Revenue Ops
+ETL/ELT Pipelines	KPI Reporting, Forecasting, Attribution	SaaS, Fintech, Hospitality
+Data Modeling	A/B Testing, Cohorts, ROI Analysis	Customer Funnels, Paid Media
+</div>
+🚀 What I Love Working On
+📊 Marketing & Growth Analytics
 
-## 🛠️ Skills & Tools  
+Unified campaign reporting (CAC, CTR/CVR, ROAS, ROI)
 
-### 🚀 Functional Competencies  
-- **Revenue Operations**: Forecasting | Pipeline Coverage | QBR Cadences | CAC/LTV | Churn/Retention  
-- **Sales Operations**: Territory & Quota Planning | Deal Desk Analytics | Compensation & Incentives | CRM Governance  
-- **GTM Enablement**: Playbooks | KPI Dashboards | Adoption & Training | Board & Executive Reporting  
-- **Program Management**: Agile | Stakeholder Communication | Cross-functional Alignment | Compliance Reporting  
+Funnel performance, attribution modeling, cohort analysis
 
-### ⚙️ Technical Skills  
-- **Programming & Data**: Python (Pandas, NumPy) | SQL (Advanced Optimization) | R (basic) | Bash/Shell | Git  
-- **ETL & Orchestration**: Ab Initio | Dagster | Airflow | Autosys | Control-M | Data Quality Frameworks  
-- **Databases & Cloud**: Snowflake | BigQuery | Oracle | Teradata | PostgreSQL | SQL Server | AWS (S3, Redshift, Glue, EC2) | GCP  
-- **BI & Visualization**: Power BI | Tableau | Qlik | Looker Studio | Advanced Excel (VBA, Macros, DAX)  
-- **Other Tools**: Salesforce | HubSpot | Highspot | Salesloft | QuickBooks | Confluence | Jira | ServiceNow | Jenkins | Docker | CI/CD  
+Connecting GA + CRM + spend data to downstream insights
 
----
+🔧 Data Engineering
 
-## 💼 Professional Experience Highlights  
+Building scalable ETL/ELT pipelines using SQL, Databricks, Azure, dbt, Airflow
 
-**Revenue & Sales Operations Consultant – Delaware North (UB Project Clinic)**  
-📍 Buffalo, NY | 🗓️ Jan 2025 – Jul 2025  
-- Built **Power BI + QuickBooks dashboards**, reducing reporting turnaround by **70%**.  
-- Designed bookings→revenue forecasting models → forecast accuracy up **20%**, surfaced **$500K** in missed revenue.  
-- Partnered with Finance & Sales Ops → **budget adherence up 25%**.  
-- Implemented CRM governance → Salesforce accuracy up **35%**, duplicates cut **40%**.  
+Designing medallion-architecture–based data models
 
-**Sales Operations Analyst – CoverRight (Insurtech)**  
-📍 Buffalo, NY | 🗓️ Jan 2025 – May 2025  
-- Customized **Salesforce workflows** to track CAC, churn, quota → adoption up **30%**.  
-- Built Tableau dashboards linking funnel → revenue → ROI measurement accuracy improved **25%**.  
-- Automated reconciliations → raised data accuracy **30%**.  
-- Developed pipeline risk reports → recovered **$200K in at-risk revenue**.  
-- Conducted churn analysis → renewals up **12%**.  
+Automated validation → documentation → self-service KPIs
 
-**Senior Sales Ops & GTM Enablement Specialist – LTIMindtree | Travelers Insurance**  
-📍 Bengaluru, India & Hartford, USA | 🗓️ May 2019 – Jun 2024  
-- Owned Salesforce dashboards & outbound attribution → forecast variance reduced **15%**.  
-- Automated **40+ GTM workflows** (SQL + Autosys + Salesforce) → manual effort cut **40%**.  
-- Designed KPI dashboards → **pipeline visibility for 200+ sales reps**.  
-- Built deal desk scorecards → margins up **12%**, win rates improved.  
-- Developed compensation models for **500+ sales reps** → ensured **100% accuracy**.  
-- Delivered board-ready QBR packs → executive prep time reduced **50%**.  
+📈 Dashboarding & Storytelling
 
----
+Power BI & Tableau dashboards for execs + marketing
 
-## 💡 Featured Projects  
+Revenue forecasting & performance monitoring
 
-🔹 **[Dagster Integration Hub Lite](https://github.com/chetanrv/dagster-integration-hub-lite)**  
-*Open-source framework with reusable Dagster assets for API, DB, and cloud integrations.*  
-- Modular connectors → accelerated data workflows.  
-- Orchestration-ready templates → simplified adoption.  
+Automated reporting frameworks (weekly/monthly)
 
-🔹 **Revenue Variance & Forecasting (Delaware North)**  
-- Power BI + QuickBooks → improved forecast accuracy **20%**, uncovered **$500K** in missed revenue.  
-- Centralized QBR packs → reduced executive prep time **50%**.  
+🛠️ Tech Stack
+<div align="center">
 
-🔹 **Salesforce GTM Analytics (CoverRight)**  
-- CAC & churn dashboards → adoption up **30%**.  
-- Pipeline risk reports → recovered **$200K** revenue.  
 
-🔹 **Enterprise RevOps Transformation (Travelers Insurance)**  
-- Automated **40+ workflows**, reduced reporting turnaround from **3 days → 4 hours**.  
-- Built **audit-ready regulatory pipelines**, ensuring SOX compliance with zero exceptions.  
-- Consolidated **20+ redundant reports** into centralized BI dashboards.  
 
-🔹 **Retail ETL & BI (Academic Project)**  
-- Built **end-to-end ETL pipeline** in BigQuery & Looker Studio.  
-- Star-schema warehouse → powered sales insights with scalable performance.  
 
----
 
-## 🌐 Let’s Connect  
-- [💼 LinkedIn](https://www.linkedin.com/in/chetanrv)  
-- 📧 **cravichandravani@gmail.com**  
 
-*“Revenue operations isn’t just about reporting — it’s about building trust in the numbers that drive decisions.”*
+
+
+
+
+
+
+
+
+
+
+</div>
+🌟 Highlighted Projects
+🔹 1. Marketing Attribution & ROI Dashboard
+
+Power BI + SQL + QuickBooks + CRM
+Helped GTM teams merge spend, engagement, and revenue data → improved ROI visibility & decision-making.
+
+🔹 2. Multi-Source ETL Pipelines (Azure + Databricks)
+
+Merged CRM + GA + claims data → increased data freshness by 40% for analytics + marketing ops.
+
+🔹 3. Lead Scoring & Propensity Model
+
+Python + SQL
+Predictive scoring → increased pipeline win rates by 14%.
+
+🔹 4. Forecasting Model for Bookings & Marketing Spend
+
+Linked spend → channel performance → bookings → improved accuracy by 22%.
+
+🏢 Professional Experience
+📍 Delaware North — Data Analyst
+
+Campaign attribution, GTM analytics, forecasting, Power BI dashboards, ROI insights.
+
+📍 CoverRight (Insurtech) — Operations Analyst
+
+GA + CRM integrations, Databricks ETL, KPI dashboards (CAC, churn, LTV), marketing performance.
+
+📍 LTIMindtree (Travelers) — Senior Data Analyst
+
+100+ ETL pipelines, dbt + Airflow, lead scoring, marketing dashboards, unified KPIs.
+
+(Full resume available on LinkedIn.)
+
+🎓 Education
+
+🎓 MS in Management Information Systems – University at Buffalo (4.0 GPA)
+🎓 BE in Computer Science – NMIT (3.6 GPA)
+
+📫 Let’s Connect!
+<div align="center">
+
+
+
+
+</div>
+🎮 Fun Fact
+
+I analyze data by day — and explore gaming, tech, and customer experiences by night.
+Numbers + curiosity + real-world behavior = insights I love chasing.
