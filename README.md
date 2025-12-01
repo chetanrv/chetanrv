@@ -1,7 +1,7 @@
 Hi there, I'm Chetan RV 👋
+Data Analyst | Marketing Analytics Specialist | GTM Analyst (Sales/Revenue/Marketing) | Data Engineering Hybrid
 
-Data Analyst | Marketing Analytics Specialist | GTM Analyst - Sales/Revenue/Marketing | Data Engineering Hybrid
-                                      6+ years of experience transforming marketing, CRM, and operational data into clean insights, automated dashboards, and scalable data pipelines.
+6+ years of experience transforming marketing, CRM, GTM, and operational data into clean insights, automated dashboards, and scalable data pipelines.
 
 I bridge Marketing Analytics ↔ Data Engineering, delivering insights that improve campaign performance, strengthen data accuracy, and help teams make faster, data-driven decisions.
 
