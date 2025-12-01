@@ -22,7 +22,7 @@ Databases & Cloud: Azure | Snowflake | BigQuery | SQL Server | PostgreSQL | Syna
 BI & Visualization: Power BI | Tableau | Looker Studio | Excel (VBA, Macros, Power Query)
 Marketing & GTM Tools: Google Analytics | HubSpot | Salesforce | Funnel.io | QuickBooks
 
-💼 Professional Experience Highlights
+💼 Professional Experience Highlights:
 Data Analyst – Delaware North (UB Project Clinic)
 
 📍 Buffalo, NY | 🗓️ Jan 2025 – May 2025
