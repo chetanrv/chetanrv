@@ -1,108 +1,116 @@
-🌟 Hi, I’m Chetan RV
-Data Analyst | Marketing Analytics | Data Engineering | SQL • Power BI • Databricks
+Hi there, I'm Chetan RV 👋
 
-I turn messy, multi-source marketing and business data into clean, reliable insights & automation — helping teams make faster, smarter, and more customer-obsessed decisions.
+Data Analyst | Marketing Analytics Specialist | Data Engineering Hybrid
+6+ years of experience transforming marketing, CRM, and operational data into clean insights, automated dashboards, and scalable data pipelines.
 
-I work at the intersection of data engineering + analytics, building the pipelines, datasets, and dashboards that power campaign optimization, GTM strategy, and executive reporting.
+I bridge Marketing Analytics ↔ Data Engineering, delivering insights that improve campaign performance, strengthen data accuracy, and help teams make faster, data-driven decisions.
 
-⚡ Quick Snapshot
-<div align="center">
-🔧 Expertise	📊 Analytics	💡 Domain
-SQL, Python, Databricks, dbt	Power BI, Tableau, Excel	Growth Marketing, CRM, GTM & Revenue Ops
-ETL/ELT Pipelines	KPI Reporting, Forecasting, Attribution	SaaS, Fintech, Hospitality
-Data Modeling	A/B Testing, Cohorts, ROI Analysis	Customer Funnels, Paid Media
-</div>
-🚀 What I Love Working On
-📊 Marketing & Growth Analytics
+🛠️ Skills & Tools
+🚀 Functional Competencies
 
-Unified campaign reporting (CAC, CTR/CVR, ROAS, ROI)
+Marketing Analytics: Campaign Performance | Attribution | CAC/ROAS | Conversion Funnels | Cohort Analysis
+Business Intelligence: KPI Dashboards | Trend Analysis | Forecasting | Executive Reporting | Data Storytelling
+Data Engineering: ETL/ELT Pipelines | Data Modeling | Medallion Architecture | Data Quality | Automation
+GTM & CRM Analytics: Salesforce Reporting | HubSpot Analytics | Lifecycle Tracking | Lead Scoring | ROI Analysis
+Collaboration: Stakeholder Communication | Requirements Gathering | Cross-functional Analytics | Documentation
 
-Funnel performance, attribution modeling, cohort analysis
+⚙️ Technical Skills
 
-Connecting GA + CRM + spend data to downstream insights
+Programming & Data: Python (Pandas, NumPy) | SQL (Advanced) | Git | Shell Scripting
+ETL & Orchestration: Databricks | dbt | Airflow | Azure Data Pipelines | Data Validation Frameworks
+Databases & Cloud: Azure | Snowflake | BigQuery | SQL Server | PostgreSQL | Synapse | Delta Lake
+BI & Visualization: Power BI | Tableau | Looker Studio | Excel (VBA, Macros, Power Query)
+Marketing & GTM Tools: Google Analytics | HubSpot | Salesforce | Funnel.io | QuickBooks
 
-🔧 Data Engineering
+💼 Professional Experience Highlights
+Data Analyst – Delaware North (UB Project Clinic)
 
-Building scalable ETL/ELT pipelines using SQL, Databricks, Azure, dbt, Airflow
+📍 Buffalo, NY | 🗓️ Jan 2025 – May 2025
 
-Designing medallion-architecture–based data models
+Built Power BI dashboards combining QuickBooks, CRM & campaign data → visibility into margins & bookings ↑ 35%
 
-Automated validation → documentation → self-service KPIs
+Designed campaign attribution & forecasting models → forecast accuracy ↑ 22%, recovered $500K revenue
 
-📈 Dashboarding & Storytelling
+Automated ETL pipelines for budget, pipeline & ROI tracking → manual work ↓ 40%
 
-Power BI & Tableau dashboards for execs + marketing
+Built data dictionaries & templates → self-service analytics adoption ↑ 30%
 
-Revenue forecasting & performance monitoring
+Data Analyst – CoverRight (Insurtech)
 
-Automated reporting frameworks (weekly/monthly)
+📍 Buffalo, NY | 🗓️ Jan 2025 – May 2025
 
-🛠️ Tech Stack
-<div align="center">
+Built SQL + Azure ETL integrating CRM + GA + claims → data freshness ↑ 40%
 
+Unified user journey + attribution data → marketing efficiency ↑ 28%
 
+Built KPI dashboards (CAC, LTV, churn, funnel) → adoption across GTM ↑ 25%
 
+Optimized HubSpot workflows → attribution accuracy ↑ 30%
 
+Cohort & ROI analysis → lead conversions ↑ 18%
 
+Senior Data Analyst – LTIMindtree | Travelers Insurance
 
+📍 Bengaluru, India | 🗓️ May 2019 – Jun 2024
 
+Managed 100+ ETL/ELT pipelines (Azure + dbt + Airflow) → data reliability ↑ 45%
 
+Designed modular data models (medallion) → reporting latency ↓ 50%
 
+Built Power BI dashboards for CPC, ROI, funnel health → optimization cycles ↑ 35%
 
+Automated 40+ workflows using SQL + Databricks → saved 400+ hours/year
 
+Built forecasting & variance models → budget accuracy ↑ 22%
 
+Developed lead scoring models → pipeline win rates ↑ 14%
 
+💡 Featured Projects
+🔹 Marketing Attribution & ROI Engine (Delaware North)
 
+Power BI + QuickBooks + CRM
 
+Attribute spend → engagement → revenue
 
-</div>
-🌟 Highlighted Projects
-🔹 1. Marketing Attribution & ROI Dashboard
+Improved forecast accuracy 22%, uncovered $500K missed revenue
 
-Power BI + SQL + QuickBooks + CRM
-Helped GTM teams merge spend, engagement, and revenue data → improved ROI visibility & decision-making.
+Created QBR-ready dashboard packs
 
-🔹 2. Multi-Source ETL Pipelines (Azure + Databricks)
+🔹 Databricks ETL Framework (CoverRight)
 
-Merged CRM + GA + claims data → increased data freshness by 40% for analytics + marketing ops.
+Unified CRM + GA → single attribution source
 
-🔹 3. Lead Scoring & Propensity Model
+Enabled cross-channel performance insights
 
-Python + SQL
-Predictive scoring → increased pipeline win rates by 14%.
+Improved data availability 40%, efficiency 28%
 
-🔹 4. Forecasting Model for Bookings & Marketing Spend
+🔹 Predictive Lead Scoring (Travelers Insurance)
 
-Linked spend → channel performance → bookings → improved accuracy by 22%.
+Python + SQL + Databricks
 
-🏢 Professional Experience
-📍 Delaware North — Data Analyst
+Propensity scoring model
 
-Campaign attribution, GTM analytics, forecasting, Power BI dashboards, ROI insights.
+Increased sales prioritization accuracy & win rates by 14%
 
-📍 CoverRight (Insurtech) — Operations Analyst
+🔹 GTM Funnel & Lifecycle Analytics (CoverRight)
 
-GA + CRM integrations, Databricks ETL, KPI dashboards (CAC, churn, LTV), marketing performance.
+Built CAC, churn, LTV dashboards
 
-📍 LTIMindtree (Travelers) — Senior Data Analyst
+Automated funnel health monitoring
 
-100+ ETL pipelines, dbt + Airflow, lead scoring, marketing dashboards, unified KPIs.
+Enabled 25% higher analytics adoption across GTM teams
 
-(Full resume available on LinkedIn.)
+🔹 Retail ETL & BI Pipeline (Academic Project)
 
-🎓 Education
+End-to-end ETL in BigQuery
 
-🎓 MS in Management Information Systems – University at Buffalo (4.0 GPA)
-🎓 BE in Computer Science – NMIT (3.6 GPA)
+Star-schema warehouse + Looker dashboards
 
-📫 Let’s Connect!
-<div align="center">
+Delivered scalable insights for sales trends
 
+🌐 Let’s Connect
 
+💼 LinkedIn
+📧 cravichandravani@gmail.com
 
-
-</div>
-🎮 Fun Fact
-
-I analyze data by day — and explore gaming, tech, and customer experiences by night.
-Numbers + curiosity + real-world behavior = insights I love chasing.
+“Analytics isn’t just about dashboards — it’s about delivering clarity, trust, and better decisions.”
